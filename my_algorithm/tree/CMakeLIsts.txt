@@ -1,0 +1,2 @@
+PROJECT(Tree)
+add_executable(Tree "inorder_sequence.cpp" "tree.cpp" "tree_main.cpp")
